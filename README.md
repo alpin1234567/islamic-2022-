@@ -84,7 +84,7 @@ api/data/jadwalshalat/listkota
 Untuk Melihat
 
 # Live API
-- https://islamic-api-indonesia.herokuapp.com
+- https://daftar-sholat-api.herokuapp.com/#
 - Gunakan Parameter Yg Sama Yaa :)
 - 100 % Open Source
 - Like This Repository Okeee 🎉
